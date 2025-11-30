@@ -1,0 +1,4 @@
+output/spark_predictions/
+__pycache__/
+data/*
+!data/description.md
